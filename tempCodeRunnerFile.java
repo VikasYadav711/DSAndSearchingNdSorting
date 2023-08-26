@@ -1,0 +1,2 @@
+ if(startcol==endcol)
+                    break;
